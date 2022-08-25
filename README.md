@@ -1,2 +1,2 @@
 # fff
-file:///G:/microsoft.html
+https://G:/microsoft.html
